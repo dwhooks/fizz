@@ -1,7 +1,7 @@
 # fizz
 fizzbuzz project
 
-<!DOCTYPE html>
+<html>
   <body>
         <script src = jquery-compat-git.js></script>
 
